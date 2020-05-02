@@ -7,6 +7,13 @@ Retailable is an open sourced discord bot for simple use in a single discord. Gr
 
 afk, ban, help, kick, mute, purge, unmute, warn.
 
+# How to run
+
+goto the directory => cd /Retailable/
+run => npm install
+
+then run => node index.js
+
 
 # Developers
 
