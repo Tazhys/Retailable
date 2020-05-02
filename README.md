@@ -17,4 +17,4 @@ then run => node index.js
 
 # Developers
 
-The main developer if this source is Tazhys#2665 my dms are open if you need to message me.
+The main developer of this source is Tazhys#2665 my dms are open if you need to message me.
